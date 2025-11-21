@@ -1,5 +1,5 @@
 FROM flowiseai/flowise:3.0.8
 
-EXPOSE 10000
+EXPOSE 3000
 
 CMD ["flowise", "start"]
