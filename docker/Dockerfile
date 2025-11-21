@@ -1,4 +1,4 @@
-FROM flowiseai/flowise:3.0.11
+FROM flowiseai/flowise:3.0.8
 
 EXPOSE 3000
 
